@@ -1,0 +1,43 @@
+html {
+    height: 200px;
+}
+
+body {
+    width: 400px;
+    height: 200px;
+    background-color: #F4F2EF;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+}
+
+h1 {
+    color: #3B5CAD;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+input {
+    font-size: large;
+    padding: 10px;
+}
+
+button {
+    font-size: large;
+    color: white;
+    border-radius: 6px;
+    background-color: #4C76E4;
+    padding: 10px;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #2A55D2;
+}
+
+button:active {
+    background-color: #2553CB;
+}
+
+#google_link {
+    font-size: large;
+}

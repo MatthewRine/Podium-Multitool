@@ -1,0 +1,10 @@
+{ "manifest_version": 2, 
+    "name": "Google Listing Finder", 
+    "description": "Find a Google listing from the Page ID.", 
+    "version": "1", 
+    "author": "Matthew Rine",
+    "browser_action":  {"default_popup": "popup.html"},
+    "permissions": ["activeTab"],
+    "icons": {"100": "icon.png"}
+}
+    
